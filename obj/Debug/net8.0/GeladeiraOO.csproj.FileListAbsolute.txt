@@ -12,3 +12,4 @@ C:\Users\Laura Santos\Desktop\Codigo_c#\Geladeira00\GeladeiraOO\obj\Debug\net8.0
 C:\Users\Laura Santos\Desktop\Codigo_c#\Geladeira00\GeladeiraOO\obj\Debug\net8.0\GeladeiraOO.pdb
 C:\Users\Laura Santos\Desktop\Codigo_c#\Geladeira00\GeladeiraOO\obj\Debug\net8.0\GeladeiraOO.genruntimeconfig.cache
 C:\Users\Laura Santos\Desktop\Codigo_c#\Geladeira00\GeladeiraOO\obj\Debug\net8.0\ref\GeladeiraOO.dll
+c:\Users\Laura Santos\Desktop\Codigo_c#\Geladeira00\GeladeiraOO\obj\Debug\net8.0\GeladeiraOO.sourcelink.json
